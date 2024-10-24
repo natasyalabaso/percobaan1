@@ -94,6 +94,8 @@
         eveniet unde ipsum reiciendis. Lorem ipsum dolor sit amet </p>
 
         <img src="img/dino.jpg" alt = "dino">
+        ![image](https://github.com/user-attachments/assets/22b52c5e-6eac-4ca3-a9ef-99a4d66dcaaa)
+
 </body>
 </html>
 
