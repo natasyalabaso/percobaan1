@@ -42,9 +42,6 @@
 
    <!-- <img src="kupu.jpg" alt="HTML"> -->
 
-
-</body>
-</html>
 @@ -0,0 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
