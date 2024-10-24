@@ -42,6 +42,7 @@
 
    <!-- <img src="kupu.jpg" alt="HTML"> -->
    ![image](https://github.com/user-attachments/assets/4cdf943e-ce1e-4eb3-ae58-338f54ff8896)
+![dino](https://github.com/user-attachments/assets/04505eae-5268-49d1-ae57-a1aa449144bf)
 
 
 @@ -0,0 +1,53 @@
@@ -97,6 +98,7 @@
 
         <img src="img/dino.jpg" alt = "dino">
         ![image](https://github.com/user-attachments/assets/22b52c5e-6eac-4ca3-a9ef-99a4d66dcaaa)
+![dino](https://github.com/user-attachments/assets/7946bd5c-2b87-480c-a19c-0dec152f3f01)
 
 </body>
 </html>
